@@ -1,4 +1,4 @@
-﻿# AvocadoEdition_RandomDice
+﻿# AvocadoEdition_CharacterManager
 아보카도 에디션 플러그인 : 멤버 활동 및 신청서 합격 관리 추가 기능
 ---
 
